@@ -6,7 +6,7 @@ A responsive and modern tourism website showcasing the beauty, culture, and dest
 
 ## 🌐 Live Demo
 
-🖱️ [View Website (GitHub Pages)](https://anjali2128.github.io/Karnataka-tourism)  
+🖱️ [KARNATAKA TOURISM](https://anjali2128.github.io/Karnataka-tourism/)  
 📂 [GitHub Repo](https://github.com/anjali2128/Karnataka-tourism)
 
 ---
